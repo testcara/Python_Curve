@@ -10,4 +10,5 @@ https://github.com/RedHatInsights/insights-core
 - Programming algorithms learning and practises</br>
 https://leetcode.com/
 - Python project practises</br>
+
 More, to track the whole process, we would like to have regular sync meetings every 2 weeks to make sure everything is kept on going!
