@@ -1,5 +1,5 @@
 Kick Off
-===
+
 Reach the mentor to refreash the following learning curve to be a advanced python player.
 - Vim for python
 -- https://github.com/xiangce/init_settings/blob/master/.vimrc
